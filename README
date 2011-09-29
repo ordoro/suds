@@ -1,0 +1,3 @@
+I forked this version of suds from https://fedorahosted.org/releases/s/u/suds/python-suds-0.4.1.tar.gz
+
+I merely added the ability for a plugin to actually affect how a SOAP request is rendered.
